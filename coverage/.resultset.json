@@ -180,11 +180,21 @@
       ],
       "/Users/mnhollandplum/Desktop/turing/2module/homework/week_2/blogger/config/routes.rb": [
         1,
-        null,
+        1,
         null
       ],
       "/Users/mnhollandplum/Desktop/turing/2module/homework/week_2/blogger/app/helpers/application_helper.rb": [
         1,
+        null
+      ],
+      "/Users/mnhollandplum/Desktop/turing/2module/homework/week_2/blogger/spec/models/article_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        2,
+        2,
+        null,
         null
       ],
       "/Users/mnhollandplum/Desktop/turing/2module/homework/week_2/blogger/app/models/article.rb": [
@@ -196,8 +206,20 @@
         1,
         1,
         null
+      ],
+      "/Users/mnhollandplum/Desktop/turing/2module/homework/week_2/blogger/app/controllers/articles_controller.rb": [
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/Users/mnhollandplum/Desktop/turing/2module/homework/week_2/blogger/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1539154942
+    "timestamp": 1539157131
   }
 }
