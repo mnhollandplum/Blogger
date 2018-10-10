@@ -186,8 +186,18 @@
       "/Users/mnhollandplum/Desktop/turing/2module/homework/week_2/blogger/app/helpers/application_helper.rb": [
         1,
         null
+      ],
+      "/Users/mnhollandplum/Desktop/turing/2module/homework/week_2/blogger/app/models/article.rb": [
+        1,
+        1,
+        null
+      ],
+      "/Users/mnhollandplum/Desktop/turing/2module/homework/week_2/blogger/app/models/application_record.rb": [
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1539151313
+    "timestamp": 1539154942
   }
 }
